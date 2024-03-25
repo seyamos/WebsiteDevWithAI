@@ -1,0 +1,140 @@
+(ChatGPT 3.5 kullanıldı.)
+
+1. (Ana hatlar için promptlar)
+Bir web geliştici olarak bir yazarın portfolyo sitesini yapmak istiyorum. Bu web sitesini benim için aşağıdaki şekilde kodlayabilir misin:
+Öncelikle html, css, bootstrap çerçevesi ve javascript araçlarını kullan.   html,  css ve javascript kodlarını ayrı dosyalar olarak ver.
+- Web sayfamın temel yapısını HTML ile oluştur. 
+- CSS ile stil ve düzen ekle. 
+- Duyarlı tasarım (Responsive design) olması için gerekli Bootstrap çerçevesini kullan. Web sitesinin özellikle mobil uyumlu ve duyarlı olması çok önemli.
+- Javascript ile interaktiflik ekle: Kullanıcı etkileşimini yönetmek için JavaScript kullan.
+
+Web sitesinin görünümü:  Arka plan rengi açık gök mavisi.  Yazılar siyah renkte.
+
+Bu site "Yaz Kübra Erbay" isimli yazara ait. Oluşturacağın web sitesinde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklinde.
+a- Header bölümü: Yazar "Yaz Kübra Erbay" ın ismi web safasının üstünde ve sola yakın olsun. Yazarın isminin  altında yazara ait bir fotoğraf. Fotoğraf yatayda ortalanmış ve 300'e 300 pixel boyutlarında. 
+b- Nav (Navigasyon) bölümü header bölümünün üstünde olsun. Nav (Navigasyon) bölümünde "Yazar Hakkında", "Eserler" ve "İletişim"  bağlantıları olsun ve sağa dayalı olsun.
+c- Web sitemin içerik bölümündeki ilk bölümde, yazarın fotoğrafının altındaki alanda, yatayda ortalanmış olarak şu metin var:
+   "İstanbul doğumlu yazar, Hacettepe Üniversitesi Edebiyat Fakültesi, Halk Bilimi Bölümü mezunudur. Aynı üniversitede Yeni Türk Edebiyatı alanında yüksek lisans yapmıştır.
+    Çeşitli üniversitelerde Türk Dili Ve Edebiyatı dersleri vermiştir. Romanları, çocuk kitapları ve tiyatro oyunları bulunmaktadır. "
+    İçerikteki bu metnin bulunduğu konuma, Navigasyon'daki "Yazar Hakkında" nın üzerine tıklanınca da ulaşılabilsin.
+d- İçerikteki ikinci bölüm yazarın eserlerinden oluşuyor:
+    I. İlk eser türünün ismi "Romanlar" ve bu isim bir başlık olarak yatayda ortalanmış.
+    II. İkinci tür "Çocuk Kitapları" isminde ve bu isim bir başlık olarak yatayda ortalanmış.
+    III. Üçüncü tür "Tiyatro Oyunları" isminde ve bu isim bir başlık olarak yatayda ortalanmış.
+    Bu 3 adet eser türü web sitesinin içeriğinde alt alta olarak sıralanıyor.
+e- Web sitesinin footer kısmında sosyal medya logoları olsun. Bu sosyal medya logolarının olduğu konuma Navigasyon'daki "İletişim" sekmesine tıklanınca ulaşılabilsin.
+    Bu sosyal medya logolarına tıklanınca yazara ait sosyal medya hesaplarına ulaşılsın. Bu logoları yatayda ortala ve aralarına 20 px boşluk koy.
+f-  Web sitesinin footer kısmında- sosyal medya logolarının altında- yatayda ortalanmış- yazara ait bir logo olsun. Bu logonun boyutları 100'e 100 pixsel.
+
+2.
+- Yazarın resmini ve yazar hakkındaki metni ortalar mısın? 
+- Navigasyon bölümünü header'ın üstüne taşı lütfen. 
+- footer bölümündeki sosyal medya logolarına tıklayınca yazara ait sosyal medya hesaplarına gidilsin.
+- footer bölümündeki Yazar'a ait Logo"yu sosyal medya logolarının altına 50px boşluk bırakarak alabilir misin? 
+- "Yaz Kübra Erbay" yazısını navigasyon bölümüne alarak  sola yaklaştırabilir misin?
+- footer'daki Yaz Kübra Erbay Logo'sunu ortalayabilir misin?
+
+3.
+Header'daki "Yaz Kübra Erbay" yazısını kaldır. Navigasyon'daki Yaz Kübra Erbay yazısını biraz büyüt lütfen.
+
+4.
+Navigasyon'daki "Yazar Hakkında" sekmesinde olduğu gibi,  "İletişim" sekmesine tıklayınca footer bölümündeki sosyal medya logolarının olduğu konuma gidilsin.
+
+5.
+bu işi  javascript kodu olmadan, html kodunda yapabilir misin?
+
+6.
+Teşekkür ederim. Yukarıdaki "Romanlar", "Çocuk Kitapları" ve "Tiyatro Oyunları" başlıklarının her birinin altında ayrı ayrı olmak üzere 1'e 2 matris düzeninde birer resim galerisi olsun. Her bir resim galerisini kendi içinde olmak üzere yatayda ortala.
+Resimlerin boyutları 300'e 300 pixsel olmalı ve aralarında 20px boşluk olsun. Her bir resmin  boyutları  300'e 300 pixsel olmalı.
+
+7. (pop-up oluşturmak için promptlar)
+    javascript dosyasındaki her şeyi sil ve şu iş için yeni bir javascript dosyası oluştur. 
+1. Resim galerisindeki resimlerden her birine tıklanınca o resimle ilgili özet bilginin olduğu bir pop-up açılsın.
+2. Bu pop-up, tıklanan resmin olduğu konumda açılmalı. Bu çok önemli.
+3. Pop-up'ın boyutu  200'e 200 pixel. Her bir pop-up'ın 5px kalınlığında siyah birer çerçevesi olsun. 
+    Bu kodlar için html, css ve javascript dosyaları ayrı olmalı.
+
+8.
+resimlere tıklayınca popup'lar açılmıyor. pop-up özelliği için javascript dosyasını en baştan kodlayabilir misin?  
+1. Resim galerisindeki resimlerden her birine tıklayınca o resimle ilgili özet bilginin olduğu bir pop-up açılsın.
+2. Bu pop-up'lar tıklanan resmin olduğu konumda açılmalı. Bu çok önemli.
+3. Pop-up'ların boyutu  200'e 200 pixel. Pop-up'ların 5px kalınlığında siyah birer çerçevesi olsun.
+2. Her bir pop-up içeriği için ayrı ayrı özet bilgiler oluşturabilir misin? 
+   (Bu pop-up özelliği için javascript kodunu tekrar yazman gerekebilir.)
+   Ayrıca html ve css dosyalarını da güncelleyebilirsen harika olur.
+
+9.
+pop-up'lar çıkmıyor.  Sorun ne olabilir? html dosyasında bir revize mi yapmak gerekiyor?
+
+10.
+pop-up'lar hala çalışmıyor.  Sorunu çözmeme yardım edebilir misin?
+
+11. Söylediğin şekilde html dosyamdaki article bölümü içinde tanımlanan bir galeri etiketi yok. Sorun bundan kaynaklanıyor olabilir mi?
+Eğer öyleyse html kodlarımı güncelleyebilir misin? 
+
+12.
+Teşekkürler, harika ! Bir şey daha var: tıklama ile açılan pop-up'ların, yine tıklama ile kapanmasını sağlayan kodu yazabilir misin?
+
+13.
+Aşağıdaki javascript koduna şu özelliği ekleyebilir misin: açılan pop-up'lar sayfada başka herhangi bir yere tıklanınca kapansın. Güncellenecek kod aşağıda:
+
+document.addEventListener("DOMContentLoaded", function() {
+    var galleryImages = document.querySelectorAll(".gallery-img");
+    galleryImages.forEach(function(img) {
+        img.addEventListener("click", function() {
+            var popupContent = img.dataset.popup;
+            showPopup(img, popupContent);
+        });
+    });
+});
+
+14.
+Çok güzel oldu. Popup'lar istediğim gibi çalışıyor. Artık web sitemin içerik bölümünün arka plan rengini açık gök mavisi yapabilir misin?
+
+15.
+<section id="about"> bölümüyle main arasındaki boşluğu nasıl arttırabilirim?
+
+16.
+html dosyasında footer bölümündeki yazar logosunu header bölümüne de koyabilir misin?
+
+17.
+bu logoyu navbar'daki Yaz Kübra Erbay yazısının sol yanına yerleştirebilir misin?
+
+18.
+bu logoyu navbar içinde dikey ortalamak istiyorum. Bunu nasıl yapabilirim?
+
+19.
+navigasyon bölümündeki logoya veya "Yaz Kübra Erbay" yazısına tıklanınca , sayfayı, yazar hakkındaki metnin olduğu bölüme kaydırmayı sağlayan kodları yazabilir misin?
+
+20.
+bu işi javascript kodu olmadan html koduyla yapabilir misin?
+
+21.
+footer'daki sosyal medya logolarının boyutlarını ayarlamak için gerekli kodları güncelleyebilir misin?
+
+22. (Responsive tasarım için ek promptlar)
+Web sitemi yaparken mobil uyumlu olup olmadığını nasıl kontrol edebilirim?
+
+23.
+Web sitem mobil cihazlarla uyumlu görünmüyor. Kodlarımı nasıl düzenleyebilirim?
+
+24. 
+Teşekkürler, site genel olarak mobil uyumlu oldu ama navbar bölümü mobil uyumlu görünmüyor. Ne yapmalıyım?
+
+25.
+Teşekkürler, öncelikle navbardaki bağlantıların olduğu bölümü nasıl mobil uyumlu hale getirebilirim?
+
+26.
+şu söylediğin şeyi nasıl uygulayabilirim? : 
+"Hamburger Menü Kullanın: Mobil cihazlarda sınırlı ekran alanı olduğundan, genellikle hamburger menü tercih edilir. Navbar'ın mobil versiyonunda hamburger menüyü kullanarak menüyü gizleyebilir ve kullanıcılar menüyü açmak istediklerinde tıklayarak açabilirler."
+
+27.
+Navbardaki hamburger menüye tıklayınca bağlantıların açılması için gereken kodları yazar mısın?
+
+28. 
+Çok güzel fakat bu bağlantıların hamburger menünün altında açılması  için gereken kodları yazar mısın?
+
+29.
+Navbar mobil uyumlu görünmüyor. Gerekli kodları güncelleyebilir misin?
+
+30. Teşekkürler. Navigasyondaki "Yaz Kübra Erbay" yazısı mobil cihazlarda yarım yamalak görünüyor. Düzgün görünmesi için gerekli kodları yazar mısın?

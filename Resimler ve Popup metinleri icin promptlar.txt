@@ -1,0 +1,48 @@
+(Copilot ve Adobe Firefly AI araçları kullanıldı. Çoğunlukla Copilot kullanıldı-Copilot, resim üretirken genellikle DALL-E 3'ü kullanıyor.)
+
+Promptlar (Resimler için)
+
+(author_photo.jpg)
+ Yaz Kübra Erbay isimli kadın yazar için bir resim üretebilir misin?
+
+(logo.png)
+ Yaz Kübra Erbay isimli yazar için, kitap temalı bir yazar web sitesi logosu üretebilir misin?
+
+(roman1.jpg)
+ "Kadın bir Gülse" isimli kitap için bir kitap kapağı tasarlayabilir misin? Yazar'ın ismi "Yaz Kübra Erbay". Gözleri dolmuş bir kadın ve 1 gül var.
+
+(roman2.jpg)
+ İkinci kitap: "Vuelve Papa" isimli fantastik bir kitap. Mor ve mavi renkler içersin.
+
+(cocuk_kitabi1.jpg)
+ Bir çocuk kitabı için kitap kapağı tasarlayabilir misin? Kitabın ismi "Kara Kedi". Yazarı "Yaz Kübra Erbay". Kapak resminin içeriğinde sevimli bir kara kedi illüstrasyonu var. Bu kara kedi bir çocuk odasının penceresinden dışarı bakıyor. Dışarıdaki görüntü yıldızlı ve parlak bir gece görüntüsü.
+
+(cocuk_kitabi2.jpg)
+ Bir çocuk kitabı için kitap kapağı tasarlayabilir misin? Kitabın ismi "Shima". Yazarı "Yaz Kübra Erbay". Kapak resminin içeriğinde sevimli ve çekik gözlü bir kız çocuğu var. Kitap bu kız çocuğunun fantastik yolculuklarını içeriyor.
+
+(tiyatro_oyunu1.jpg)
+ Bir afiş tasarlayabilir misin? Tiyatro oyununun ismi: Buz Çocuk. Yazan: Yaz Kübra Erbay. Oyun, bir erkek çocuğunun geniş hayal gücüyle kurduğu kendi dünyasını anlatıyor. Çocuk buz teması içinde olsun. Arkadaki görseller fantastik olsun.
+
+(tiyatro_oyunu2.jpg)
+ Bir tiyatro oyunu için afiş tasarlayabilir misin? Oyunun adı: Naciye Sultan. Yazan:Yaz Kübra Erbay. Yöneten: Cengiz Korucu. Naciye Sultan, genç ve güzel bir Osmanlı kadın sultanıdır. Afişi mektup zarfı konseptiyle tasarlayabilir misin? Afişte, şu bilgiler de olsun lütfen: "Yazan:Yaz Kübra Erbay, Yöneten: Cengiz Korucu" 
+
+
+Promptlar (Pop-uplarda çıkacak metinler için)
+
+1. Kadın Bir Gülse (Roman 1)
+Kadın Bir Gülse isimli kitap için özet bir metin yazabilir misin? Kitap, Kıbrıs'ta başlayan Türkiye'de devam eden, Gül isimli kadının yaşam öyküsü. Kitapta Kıbrıs mücadelesi de var. Kadın çeşitli acılar çekiyor.
+
+2. Vuelve Papa (Roman 2)
+Vuelve Papa isimli kitap için bir özet bilgi yazabilir misin. Kitap fantastik bir roman. Ölen babasını geri getirmek için mücadele eden Hayat isimli kadının hikayesidir.
+
+3. Kara Kedi (Çocuk Kitabı 1)
+Toplumsal önyargılar üzerine vurgu yapan bir çocuk kitabı olan Kara Kedi için özet bir bilgi yazabilir misin?
+
+4. Shima (Çocuk Kitabı 2)
+Shima isimli kız çocuğunun maceralarını anlatan fantastik bir çocuk kitabı için özet bilgi yazabilir misin?
+
+5. Buz Çocuk (Tiyatro Oyunu 1)
+Buz Çocuk isminde bir tiyatro oyunu olsun. Bu oyunla iligili edebi bir özet metin yazabilir misin. Metinde Buz Çocuğun kendine ait geniş bir hayal dünyası olduğunu belirt lütfen.
+
+6. Naciye Sultan (Tiyatro Oyunu 2)
+Naciye Sultan isimli tiyatro oyunu için özet bir içerik metni yazabilir misin? Naciye Sultan genç bir Osmanlı kadın sultanıdır ve Enver Paşa isimli subay ile mektuplaşmaları bulunmaktadır. Bu bilgiye göre edebi bir tiyatro oyunu metni oluşturabilir misin?

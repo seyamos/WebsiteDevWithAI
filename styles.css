@@ -1,0 +1,113 @@
+body {    
+    background-color: #add8e6; 
+    color: black; 
+  }
+  
+  header {
+    padding: 20px;   
+    
+  }
+    
+  .brand-name {
+    font-size: 40px; /* Yaz Kübra Erbay yazısının font boyutu */
+  }
+  
+  main {
+    padding: 20px;
+    background-color: #add8e6; 
+    color: black; 
+  }
+
+  .container{
+    text-align: center;   
+  }
+
+  #about{
+    text-align: center; 
+    padding: 20px;
+    /* margin-top: 20px;  */
+    margin-bottom: 30px;  
+  }
+  
+  footer {
+    background-color: #f8f9fa; /* footer arkaplan rengi */
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  footer img {
+    margin: 0 10px; /* sosyal medya logoları arasında boşluk */
+    
+  }
+  
+  footer img.author-logo {
+    margin-top: 50px; /* Yaz Kübra Erbay Logo'su ile logolar arasında boşluk */
+  }
+
+  /* Resim galerisi stilleri */
+.gallery-img {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+/* Pop-up stilleri */
+.popup {
+    position: absolute;
+    width: 230px;
+    height: 220px;
+    background-color: lightyellow;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.author-logo{
+  width: 100px;
+  height: 100px;
+}
+
+.brand-name {
+  margin-left: 20px; /* Logo ile metin arasında boşluk */
+}
+
+ .navbar {  
+  display: flex;
+  justify-content: center; /* Yatayda ortala */
+  align-items: center; /* Dikeyde ortala */
+  height: 80px; /* Navbar yüksekliği */  
+}
+
+.logo {
+  width: 80px; /* Logo genişliği */
+  height: 80px; /* Logo yüksekliği otomatik ayarlanacak */
+
+}
+
+.social-media-logo {
+  width: 50px; /* Genişlik */
+  height: auto; /* Yükseklik otomatik ayarlanacak */
+}
+
+
+@media (max-width: 1400px) {
+  .brand-name {
+    font-size: 30px; /* Mobil cihazlarda font boyutunu küçült */
+  }
+}
+
+@media (max-width: 1400px) {
+  .logo {
+    width: 30px; /* Logo genişliği */
+    height: 30px; /* Logo yüksekliği */  
+  }
+}
+
+@media (max-width: 1400px) {
+  .navbar-collapse {
+    font-size: 20px;
+    font-weight:bold;
+    text-align:justify;
+    
+  }
+}
